@@ -3,9 +3,7 @@
 
 ## Norwich, UK
 - **Email** - [tonyphipps@gmail.com](mailto:tonyphipps@gmail.com)
-- **Website** - [tonyphipps.co.uk](http://tonyphipps.co.uk)
 - **Github** - [github.com/neutraltone](http://github.com/neutraltone)
-- **Codepen** - [codepen.io/neutraltone](http://codepen.io/neutraltone)
 - **LinkedIn** - [linkedin.com/in/tonytphipps](https://www.linkedin.com/in/tonytphipps/)
 
 All other contact details available upon request.
@@ -19,26 +17,33 @@ As an experienced user-interface designer and front-end developer with 6+ years 
 - HTML5
 - CSS3, Sass (SCSS)
 - JavaScript
+- PHP
 
 ### Design
-- Interface Design
 - User Experience
 - Affinity Suite / Sketch / Adobe CC
 
 ### Everyday Tools, Methodologies and Frameworks
-- Node.js; npm; webpack; Vue.js; Gulp.
-- BEM; ITCSS; OOCSS.
-- Sass; LESS; Stylus; Bootstrap; Foundation.
-- Handlebars; Haml; Pug (Jade).
+- Node.js; npm; webpack; Vue.js.
+- Tailwind CSS; Styled Components.
+- JSX; Blade.
+- Laravel; Wordpress.
 - Foundation Emails; Campaign Monitor; MailChimp.
-- Git; Git-Flow.
-- Linux; DigitalOcean; NGINX; Apache; Vagrant.
+- Git; Git-Flow; GitHub.
+- Linux; NGINX; Apache.
 
 ## Current position
 
+### Spur - Huntsville, Alabama (Remote)
+**Front-end developer**  
+_August 2018 - Present_
+
+
+## Career history
+
 ### Content Discovered - Norwich, Norfolk
 **Front-end developer**  
-_June 2017 - Present_
+_June 2017 - August 2018_
 
 Duties range from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour to inform iterations of designs.
 
@@ -47,9 +52,6 @@ Duties range from designing products, implementing designs responsively, integra
 - Instated JavaScript integration tests as part of the deployment process for a number of projects.
 - Integrated responsive templates with the WordPress CMS, utilising custom post types, custom taxonomies, Timber and the Advanced Custom Fields plugin.
 - UX research and testing using a variety of platforms and techniques including, but not limited to, Google Analytics, Hotjar and A/B testing.
-
-
-## Career history
 
 ### Grit Agency - Norwich, Norfolk
 **Front-end web developer**  
