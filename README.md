@@ -9,7 +9,7 @@
 All other contact details available upon request.
 
 ## Profile
-As an experienced user-interface designer and front-end developer with 6+ years of commercial experience, I specialise in design and development of web applications and responsive websites with a  special attention to best practices. I am passionate about engaging in the professional community and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I’m a keen follower of Agile and iterative design, backed by A/B & multivariate split testing.
+As an experienced user-interface designer and front-end developer with 10 years of commercial experience, I specialise in design and development of web applications and responsive websites with a special attention to best practices. I am passionate about engaging in the professional community and following the ever-evolving web landscape, particularly with regards to emerging technologies, usability and design. I’m a keen follower of Agile and iterative design, backed by A/B & multivariate split testing.
 
 ## Skills and Tooling
 
