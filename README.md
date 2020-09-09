@@ -38,13 +38,15 @@ Experienced front-end developer with 10 years of commercial experience, speciali
 **Front-end developer**  
 _August 2018 - Present_
 
-Working as part of a team on a Vue.js web application which allows 
+Working as part of an Scrum product team building a Vue.js web application to help employers manage their workforces scheduling, payroll and HR management. Day-to-day duties include cross squad planning of the direction of the product, implementing new features with concise, maintainable, performant code and working closely with 
 
 - Implementation and maintance of design system with storybook
+- integration and unit testing
 - Scoping, planning and implementing new features
 - Working with cross teams to build features
 - creation of endpoints and back-end features in Laravel
 - working closely with design to ensure feasibility of features 
+- working closely with the marketing department maintaining corporate website built with Nuxt.
 
 ## Career history
 
