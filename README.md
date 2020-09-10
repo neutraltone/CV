@@ -28,7 +28,7 @@ Experienced front-end developer with 10 years of commercial experience, speciali
 - Tailwind CSS; Styled Components.
 - JSX; Blade.
 - Laravel; Wordpress.
-- Foundation Emails; Campaign Monitor; MailChimp.
+- Campaign Monitor; MailChimp.
 - Git; Git-Flow; GitHub.
 - Linux; NGINX; Apache.
 
