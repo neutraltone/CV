@@ -42,7 +42,7 @@ Working as part of a Scrum product team developing a Vue.js and Laravel powered 
 
 - Built responsive pages and components from design comps and integrated them with Spurs REST API using Vue.js and Tailwind CSS.
 - As part of the Front-end team, collaborated to move our entire product to a componentised design system built with Storybook.
-- With the team moved from manual to automated testing by utilising the end-to-end testing framework Cypress in order to cut regression testing times.
+- I worked closely with the team, migrating from manual to automated testing by utilising the end-to-end testing framework Cypress in order to cut regression testing times.
 - Sole developer of the Spur corporate website powered by Nuxt.js and the styling framework Tailwind CSS. Included working closely with an outside digital marketing agency to improve user engagement and conversions.
 
 ## Career history
