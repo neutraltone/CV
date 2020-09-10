@@ -51,7 +51,7 @@ Working as part of a Scrum product team developing a Vue.js and Laravel powered 
 **Front-end developer**  
 _June 2017 - August 2018_
 
-Duties range from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour to inform iterations of designs.
+Duties ranged from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour to inform iterations of designs.
 
 - Setup front-end tooling with gulp.js and webpack to support building of SASS components, JS modules and SVG sprite sheets.
 - Introduced and managed continuous integration for a number of new and existing projects allowing for auto deployment.
@@ -63,7 +63,7 @@ Duties range from designing products, implementing designs responsively, integra
 **Front-end web developer**  
 _February 2011 - June 2017_
 
-Day-to-day activities range from building websites according to a provided designs and integrating them with a CMS; managing client expectations and supervising the development side of the project life cycle. Other skills and duties include:
+Day-to-day activities ranged included building websites from provided design mockups and integrating them with a CMS, managing client expectations and supervising the development side of the project life cycle. Other skills and duties include:
 
 - Setup front-end tooling with gulp.js to support building of SASS components, JS modules and SVG sprite sheets. 
 - Converted the front-end of a number of existing client websites into a responsive solution utilising Sass following a combination of BEM, OOCSS and ITCSS methodologies.
@@ -78,7 +78,7 @@ Day-to-day activities range from building websites according to a provided desig
 **Web Designer and Developer**  
 _April 2010 - July 2011_
 
-Operating as a freelance web developer building content managed websites for small businesses on a national basis. Consisting predominantly of bespoke themes on the WordPress platform utilising CSS, JavaScript and PHP.  Additional work consisted of sourcing and managing clients, estimating builds, designing to client requirements, managing hosting and providing ongoing support.
+Operated as a freelance web developer building content managed websites for small businesses on a national basis. Consisting predominantly of bespoke themes on the WordPress platform utilising CSS, JavaScript and PHP.  Additional work consisted of sourcing and managing clients, estimating builds, designing to client requirements, managing hosting and providing ongoing support.
 
 ### Nottingham Trent University
 **BA (hons) Graphic Design**  
