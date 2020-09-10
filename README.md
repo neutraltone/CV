@@ -38,7 +38,7 @@ Experienced front-end developer with 10 years of commercial experience, speciali
 **Front-end developer**  
 _August 2018 - Present_
 
-Working as part of a Scrum product team developing a Vue.js and Laravel powered web application to help employers manage their workforces scheduling, payroll and HR. Day-to-day duties include cross squad implementation planning, building new features with concise, performant, unit tested code and working to ensure the ongoing stability of the product.
+Working as part of a Scrum product team developing a Vue.js and Laravel powered web application to help employers manage their workforces scheduling, payroll and HR. Day-to-day duties included cross squad implementation planning, building new features with concise, performant, unit tested code and working to ensure the ongoing stability of the product.
 
 - Built responsive pages and components from design comps and integrated them with Spurs REST API using Vue.js and Tailwind CSS.
 - As part of the Front-end team, collaborated to move our entire product to a componentised design system built with Storybook.
@@ -51,7 +51,7 @@ Working as part of a Scrum product team developing a Vue.js and Laravel powered 
 **Front-end developer**  
 _June 2017 - August 2018_
 
-Duties ranged from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour to inform iterations of designs.
+Duties ranged from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour in order to inform design iterations.
 
 - Setup front-end tooling with gulp.js and webpack to support building of SASS components, JS modules and SVG sprite sheets.
 - Introduced and managed continuous integration for a number of new and existing projects allowing for auto deployment.
