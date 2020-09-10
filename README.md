@@ -63,7 +63,7 @@ Duties ranged from designing products, implementing designs responsively, integr
 **Front-end web developer**  
 _February 2011 - June 2017_
 
-Day-to-day activities ranged included building websites from provided design mockups and integrating them with a CMS, managing client expectations and supervising the development side of the project life cycle. Other skills and duties include:
+Day-to-day activities included building websites from provided design mockups and integrating them with a CMS, managing client expectations and supervising the development side of the project life cycle. Other skills and duties include:
 
 - Setup front-end tooling with gulp.js to support building of SASS components, JS modules and SVG sprite sheets. 
 - Converted the front-end of a number of existing client websites into a responsive solution utilising Sass following a combination of BEM, OOCSS and ITCSS methodologies.
