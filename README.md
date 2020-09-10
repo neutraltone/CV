@@ -38,15 +38,12 @@ Experienced front-end developer with 10 years of commercial experience, speciali
 **Front-end developer**  
 _August 2018 - Present_
 
-Working as part of an Scrum product team building a Vue.js web application to help employers manage their workforces scheduling, payroll and HR management. Day-to-day duties include cross squad planning of the direction of the product, implementing new features with concise, maintainable, performant code and working closely with 
+Working as part of a Scrum product team developing a Vue.js and Laravel powered web application to help employers manage their workforces scheduling, payroll and HR. Day-to-day duties include cross squad implementation planning, building new features with concise, performant, unit tested code and working to ensure the ongoing stability of the product.
 
-- Implementation and maintance of design system with storybook
-- integration and unit testing
-- Scoping, planning and implementing new features
-- Working with cross teams to build features
-- creation of endpoints and back-end features in Laravel
-- working closely with design to ensure feasibility of features 
-- working closely with the marketing department maintaining corporate website built with Nuxt.
+- Built responsive pages and components from design comps and integrated them with Spurs REST API using Vue.js and Tailwind CSS.
+- As part of the Front-end team, collaborated to move our entire product to a componentised design system built with Storybook.
+- With the team moved from manual to automated testing by utilising the end-to-end testing framework Cypress in order to cut regression testing times.
+- Sole developer of the Spur corporate website powered by Nuxt.js and the styling framework Tailwind CSS. Includes working closely with an outside digital marketing agency to improve user engagement and conversions.
 
 ## Career history
 
