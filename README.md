@@ -34,14 +34,16 @@ Experienced front-end developer with 10 years of commercial experience, speciali
 
 ## Current position
 
-### Spur - Boston, Massachusetts (Remote)
-**Front-end developer**  
+### Aryeo - Boston, Massachusetts (Remote)
+**Front-End Engineer**  
 _December 2020 - Present_
 
 `TODO: update with description, acheivements and duties`
 
+## Career history
+
 ### Spur - Huntsville, Alabama (Remote)
-**Front-end developer**  
+**Front-End Engineer**  
 _August 2018 - December 2020_
 
 Working as part of a Scrum product team developing a Vue.js and Laravel powered web application to help employers manage their workforces scheduling, payroll and HR. Day-to-day duties included cross squad implementation planning, building new features with concise, performant, unit tested code and working to ensure the ongoing stability of the product.
@@ -51,10 +53,8 @@ Working as part of a Scrum product team developing a Vue.js and Laravel powered 
 - I worked closely with the team, migrating from manual to automated testing by utilising the end-to-end testing framework Cypress in order to cut regression testing times.
 - Sole developer of the Spur corporate website powered by Nuxt.js and the styling framework Tailwind CSS. Included working closely with an outside digital marketing agency to improve user engagement and conversions.
 
-## Career history
-
 ### Content Discovered - Norwich, Norfolk
-**Front-end developer**  
+**Front-End Developer**  
 _June 2017 - August 2018_
 
 Duties ranged from designing products, implementing designs responsively, integrating with various CMS platforms right though to monitoring user behaviour in order to inform design iterations.
@@ -66,7 +66,7 @@ Duties ranged from designing products, implementing designs responsively, integr
 - UX research and testing using a variety of platforms and techniques including, but not limited to, Google Analytics, Hotjar and A/B testing.
 
 ### Grit Agency - Norwich, Norfolk
-**Front-end web developer**  
+**Front-End Web Developer**  
 _February 2011 - June 2017_
 
 Day-to-day activities included building websites from provided design mockups and integrating them with a CMS, managing client expectations and supervising the development side of the project life cycle. Other skills and duties include:
@@ -81,7 +81,7 @@ Day-to-day activities included building websites from provided design mockups an
 - Liaising with clients to streamline build turnaround times.
 
 ### Freelance Web Developer
-**Web Designer and Developer**  
+**Web Designer and Developer**
 _April 2010 - July 2011_
 
 Operated as a freelance web developer building content managed websites for small businesses on a national basis. Consisting predominantly of bespoke themes on the WordPress platform utilising CSS, JavaScript and PHP.  Additional work consisted of sourcing and managing clients, estimating builds, designing to client requirements, managing hosting and providing ongoing support.
