@@ -34,9 +34,15 @@ Experienced front-end developer with 10 years of commercial experience, speciali
 
 ## Current position
 
+### Spur - Boston, Massachusetts (Remote)
+**Front-end developer**  
+_December 2020 - Present_
+
+`TODO: update with description, acheivements and duties`
+
 ### Spur - Huntsville, Alabama (Remote)
 **Front-end developer**  
-_August 2018 - Present_
+_August 2018 - December 2020_
 
 Working as part of a Scrum product team developing a Vue.js and Laravel powered web application to help employers manage their workforces scheduling, payroll and HR. Day-to-day duties included cross squad implementation planning, building new features with concise, performant, unit tested code and working to ensure the ongoing stability of the product.
 
