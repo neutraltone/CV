@@ -48,6 +48,7 @@ _December 2020 - Present_
 
 Aryeo's mission is to empower real estate photographers and estate agents with innovative tools to streamline their workflows and enhance property marketing. As a Full-Stack Engineer, I primarily focus on front-end development to create a seamless and visually appealing user experience. My day-to-day work includes maintaining Aryeo's design system and implementing features across the stack. Some key aspects of my role and achievements at Aryeo include:
 
+- Played a pivotal role as the 5th engineer hired and contributed to the team that supported Aryeo's successful $35,000,000 acquisition by Zillow.
 - Developing and maintaining the entire standalone design system in Vue3 and Tailwind CSS.
 - Designing and developing various templates for property websites.
 - Implementing SEO strategies to boost organic traffic and enhance property listings' visibility.
